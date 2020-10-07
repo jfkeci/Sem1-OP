@@ -1,0 +1,52 @@
+//cpp algoritam za generiranje nasumičnih rezultata utakmica
+
+#include <iostream>
+#include <vector>
+ 
+using namespace std;
+ 
+int main(int argc, char* argv[]) {
+    vector<float> timovi;
+    int
+        brTim = 7,
+        brTj;
+       
+   
+    if (brTim % 2 != 0) {
+        brTim++;
+        brTj=brTim-1;
+    }
+    else
+    	brTj=brTim-1;
+   
+    float n2 = (brTim-1)/2;
+   
+    float rezultati[int(n2*2+1)][brTj];
+ 
+   
+    for(int x = 0; x<brTim; x++) {
+        timovi.push_back(x+1);
+    }
+   
+    for(int x = 0; x<brTj; x++) {
+        for(int i=0; i<=n2;i++) {
+            int
+                tim1 = timovi[n2-i],
+                tim2 = timovi[n2 + i + 1]; // ovo MORA biti int
+           
+            rezultati[tim1][x] = tim2;
+            rezultati[tim2][x] = tim1;
+           
+            cout << rezultati[tim1][x] << " vs " << rezultati[tim2][x] << endl;
+        }
+        cout << endl;
+        int y = timovi[1];
+        for(int i=1;i<timovi.size();i++) {
+            timovi[i] = timovi[i+1];
+        }
+        timovi[timovi.size()-1] = y;
+    }
+   
+   
+    return 0;
+}

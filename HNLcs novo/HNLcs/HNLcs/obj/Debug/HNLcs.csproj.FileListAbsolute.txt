@@ -1,0 +1,34 @@
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe.config
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.pdb
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\ConsoleTables.dll
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.exe
+C:\Users\filip\Desktop\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.pdb
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe.config
+J:\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.exe
+J:\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.pdb
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.pdb
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\ConsoleTables.dll
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.dll
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.pdb
+J:\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.xml
+J:\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.csprojResolveAssemblyReference.cache
+D:\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe.config
+D:\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.exe
+D:\JakovFilipSabolicek OP\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.pdb
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe.config
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.exe
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\HNLcs.pdb
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\ConsoleTables.dll
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.csprojAssemblyReference.cache
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.csproj.CopyComplete
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.exe
+C:\Users\Keci\Desktop\KeciY1Faks\Faks x1\JakovFilipSabolicek OP\Osnove programiranja\HNLcs novo\HNLcs\HNLcs\obj\Debug\HNLcs.pdb

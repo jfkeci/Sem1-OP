@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <igraci>
+    <igrac igracID="1" ime="Leo" prezime="Baksaj" godina="1999" drzavljanstvo="Domaji" klubID="251">
+    </igrac>
+    <igrac igracID="3" ime="Ivan" prezime="Ivic" godina="1996" drzavljanstvo="Ivic" klubID="251" />
+  </igraci>
+</data>

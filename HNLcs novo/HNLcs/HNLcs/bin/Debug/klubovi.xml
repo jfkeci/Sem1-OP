@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <klubovi>
+    <klub klubID="1" nazivKluba="Zvezda">
+    </klub>
+    <klub klubID="2" nazivKluba="Dinamo" />
+    <klub klubID="3" nazivKluba="Gosk" />
+    <klub klubID="4" nazivKluba="Fugaplast" />
+    <klub klubID="5" nazivKluba="Hlebine" />
+    <klub klubID="6" nazivKluba="Osvit" />
+    <klub klubID="7" nazivKluba="Zdala" />
+    <klub klubID="8" nazivKluba="Hajduk" />
+    <klub klubID="9" nazivKluba="Barcelona" />
+    <klub klubID="10" nazivKluba="Kobakapana" />
+  </klubovi>
+</data>
